@@ -3,7 +3,10 @@
 Script ini digunakan untuk mengotomatiskan tugas di Openverse Network, membantu kamu klaim poin airdrop secara efisien! 🎉  
 Dibuat dengan penuh semangat oleh [@balveerxyz](https://t.me/balveerxyz) untuk komunitas airdrop hunter.
 
-![openverse](https://github.com/user-attachments/assets/placeholder-openverse-image.jpg) <!-- Ganti dengan link gambar kalau ada -->
+![access_token](https://github.com/user-attachments/assets/b80b069c-e7a9-406c-898f-637723f86a47)
+
+## Cara ambil token
+- Buka dashboard, pencet F12 >> Application >> Local Storage
 
 ---
 
